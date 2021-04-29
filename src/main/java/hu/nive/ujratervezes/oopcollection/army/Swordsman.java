@@ -21,5 +21,6 @@ public class Swordsman extends MilitaryUnit{
     @Override
     public void sufferDamage(int damage) {
 
+
     }
 }

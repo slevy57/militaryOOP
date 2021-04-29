@@ -15,9 +15,7 @@ public class Archer extends MilitaryUnit {
     }
 
     public void sufferDamage(int damage){
-
+        int sufferedDamage = this.health - damage;
     }
-
-
 
 }
